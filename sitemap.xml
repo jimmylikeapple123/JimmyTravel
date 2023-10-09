@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jimmylikeapple123.github.io/JimmyTravel/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jimmylikeapple123.github.io/JimmyTravel/</loc>
+</url>
+<url>
+<loc>https://jimmylikeapple123.github.io/JimmyTravel/da-ban-shao-quan-gong-luezhe-tang-lu-xing-zhi-chi-da-ban-shao.html</loc>
+<lastmod>2023-10-09T23:17:00+08:00</lastmod>
+<image:image>
+<image:loc>https://jimmylikeapple123.github.io/JimmyTravel/media/posts/2/pexels-llxx-kozlxnko-10978756.jpg</image:loc>
+<image:title><![CDATA[大阪燒全攻略]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://jimmylikeapple123.github.io/JimmyTravel/ri-ben-lu-you-quan-gong-luenei-han-10ri-lu-you-jing-dian-qing-dan.html</loc>
+<lastmod>2023-10-09T23:16:21+08:00</lastmod>
+<image:image>
+<image:loc>https://jimmylikeapple123.github.io/JimmyTravel/media/posts/1/pexels-charles-postiaux-2752037.jpg</image:loc>
+<image:title><![CDATA[日本旅遊全攻略]]></image:title>
+</image:image>
+</url>
+</urlset>
