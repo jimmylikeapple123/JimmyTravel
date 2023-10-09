@@ -21,9 +21,11 @@
                 "name": "居米Jimmy"
             },
             "tags": [
+                   "美食",
+                   "日本"
             ],
             "date_published": "2023-10-09T23:17:00+08:00",
-            "date_modified": "2023-10-09T23:17:00+08:00"
+            "date_modified": "2023-10-09T23:22:58+08:00"
         },
         {
             "id": "https://jimmylikeapple123.github.io/JimmyTravel/ri-ben-lu-you-quan-gong-luenei-han-10ri-lu-you-jing-dian-qing-dan.html",
@@ -36,9 +38,12 @@
                 "name": "居米Jimmy"
             },
             "tags": [
+                   "日本美食",
+                   "日本交通",
+                   "日本"
             ],
             "date_published": "2023-10-09T23:16:17+08:00",
-            "date_modified": "2023-10-09T23:16:21+08:00"
+            "date_modified": "2023-10-09T23:22:49+08:00"
         }
     ]
 }
